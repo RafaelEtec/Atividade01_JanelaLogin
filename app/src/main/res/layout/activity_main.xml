@@ -44,4 +44,14 @@
         android:textAllCaps="false"
         android:textColor="#fff" />
 
+    <Button
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#fff"
+        android:text="Demonstração"
+        android:textAllCaps="false"
+        android:textColor="#619E3C"
+        android:textStyle="bold" />
+
 </LinearLayout>
