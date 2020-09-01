@@ -34,4 +34,14 @@
         android:textSize="15sp"
         android:textStyle="bold" />
 
+    <Button
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        android:background="#619E3C"
+        android:text="Minha conta fluig"
+        android:textAllCaps="false"
+        android:textColor="#fff" />
+
 </LinearLayout>
